@@ -43,5 +43,8 @@ Consider adding more variables for additional comic book details or creating new
 This project highlights the versatility of Go in handling data, offering a solid foundation for managing and expanding a comic book catalog.
 
 
-# Path: Codeacademy-2024/Go/go/src/projects/mischief/main.go
+# Go project file path
+
+Codeacademy-2024/Go/go/src/projects/mischief/main.go
+
 
